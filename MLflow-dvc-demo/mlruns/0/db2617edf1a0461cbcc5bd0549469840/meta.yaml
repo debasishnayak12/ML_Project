@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow-dvc-demo/mlruns/0/db2617edf1a0461cbcc5bd0549469840/artifacts
+end_time: 1700289901608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db2617edf1a0461cbcc5bd0549469840
+run_name: stately-roo-297
+run_uuid: db2617edf1a0461cbcc5bd0549469840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700289901563
+status: 3
+tags: []
+user_id: madhu

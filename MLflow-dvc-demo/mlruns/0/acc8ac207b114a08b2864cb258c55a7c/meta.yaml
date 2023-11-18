@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow-dvc-demo/mlruns/0/acc8ac207b114a08b2864cb258c55a7c/artifacts
+end_time: 1700289920069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acc8ac207b114a08b2864cb258c55a7c
+run_name: rogue-quail-858
+run_uuid: acc8ac207b114a08b2864cb258c55a7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700289920034
+status: 3
+tags: []
+user_id: madhu
